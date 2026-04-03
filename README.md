@@ -82,7 +82,7 @@ npm start
 ## 📬 Contact
 
 * Email: [prakashsp9572@gmail.com](mailto:your-email@example.com)
-* LinkedIn: https://linkedin.com/in/your-profile
+* LinkedIn: https://www.linkedin.com/in/satya-prakash-prajapati-a741822bb/
 * GitHub: https://github.com/Satyaprakash8543
 
 ---
