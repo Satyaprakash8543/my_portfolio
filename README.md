@@ -1,16 +1,98 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 About The Project
 
-Currently, two official plugins are available:
+This is my personal portfolio website built using **React.js** to showcase my skills, projects, and experience as a **Frontend / MERN Stack Developer**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The goal of this project is to create a clean, responsive, and professional online presence.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+* React.jsgit
+* JavaScript (ES6+)
+* HTML5 & CSS3
+* Tailwind CSS
+* Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+* Responsive design (Mobile + Desktop)
+* Smooth scrolling navigation
+* Modern UI/UX
+* Projects showcase section
+* Contact section
+* Social media links
+
+---
+
+## 📂 Project Structure
+
+src/
+├── components/
+├── pages/
+├── assets/
+├── App.js
+├── index.js
+
+---
+
+## 🔗 Live Demo
+
+👉 https://your-portfolio-link.vercel.app
+
+---
+
+## 📸 Screenshots
+
+(Add your project screenshots here)
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Satyaprakash8543/my_portfolio.git```
+
+Navigate to project folder:
+
+```bash
+cd your-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm start
+```
+
+---
+
+## 📬 Contact
+
+* Email: [prakashsp9572@gmail.com](mailto:your-email@example.com)
+* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: https://github.com/Satyaprakash8543
+
+---
+
+## 🙌 Acknowledgements
+
+Thanks for visiting my portfolio! 😊
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, please give it a ⭐ on GitHub!
